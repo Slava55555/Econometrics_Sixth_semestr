@@ -1,1 +1,1 @@
-# Econometrics_Sixth_semestr
+# Applied Statistics 6th semester
